@@ -36,3 +36,25 @@ const myFunction = function(){
 console.log(typeof anotherId);
 
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+// Two memory types: 
+
+//1.Stack(Primitive)  2.Heap(Non Primitive)
+
+//Primitive example
+// let name="Harish"
+// let name1=name
+// name1="Sharma"
+// console.log(name)
+// console.log(name1)
+
+//Non Primitive
+
+// let userone={
+//     email:"hk50"
+// }
+// let usertwo=userone
+// usertwo.email="hk47"
+
+// console.log(userone)
+// console.log(userone)
