@@ -1,4 +1,5 @@
-//  Primitive
+// in js datatypes are categorized into two types on the basis of how they are stored in memory and how to access them
+//  1. Primitive (call by value) whenever we copy them to exact memory ka reference nhi diya jaata copy kakre diya jaata h
 
 //  7 types : String, Number, Boolearn, null, undefined, Symbol, BigInt
 
